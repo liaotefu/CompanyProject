@@ -1,0 +1,23 @@
+﻿給我一簡易的購物網站
+1.開發工具
+jdk 17
+mysql 8.0
+Eclipse Web+Dynamic web project
+Tomcat 10.0
+
+
+2.撰寫規則依照,MVC+dao pattern
+3.backEnd 資料夾
+-entity
+-dao.impl
+-controller
+-util
+
+4.frontEnd
+-jsp網頁格式
+
+
+5.需求功能
+會員管理(CRUD+登入)
+購物車
+	
